@@ -11,12 +11,13 @@ import org.testng.annotations.BeforeSuite;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+//{
 //          platformName: "Android",
 //        deviceName: "MyNex",
 //        platformVersion: "8.0",
 //        appPackage: "com.h6ah4i.android.example.advrecyclerview",
 //        appActivity: ".launcher.MainActivity"
-
+//}
 
 public class AppiumConfiguration {
     protected  static  AppiumDriver <MobileElement> driver;
